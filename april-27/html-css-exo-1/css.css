@@ -1,0 +1,17 @@
+.h1{
+    color: red;
+}
+.h2{
+    color: blue;
+}
+.p{
+    background-color: red;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.h4{
+    text-decoration: underline;
+}
+.liste{
+    font-style: italic;
+}
