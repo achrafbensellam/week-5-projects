@@ -1,0 +1,25 @@
+.main-content {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://www.lalibre.be/resizer/v2/CJSLSELRNJAP7GEC4H6YH6PZQ4.jpg?auth=f336d6ccb5975b3e1dd3f99ca3fa1914e4d5cf98e984c8321560fef5b857c660&width=1200&height=800&quality=85&focal=1277%2C852);
+    background-size: cover;
+}
+.name{
+    border: 3px solid black;
+    border-style: hidden;
+    display: flex;
+    background-color: rgb(113, 113, 113);
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    
+}
+.name:hover{
+background-color: azure;
+}
+.title-name{
+    padding: 50px;
+}
