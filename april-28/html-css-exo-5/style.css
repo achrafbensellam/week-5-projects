@@ -1,0 +1,103 @@
+/* welcome */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* ```this is main``` */
+/* ! this main */
+.MainContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/*todo  section 1 */
+.FirsteSectionContent {
+    display: flex;
+    flex-direction: row;
+}
+
+.DivShildSecOne {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 600px;
+}
+
+.DivFothertwo {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 600px;
+}
+
+.SectionOneParagraph {
+    padding: 45px;
+}
+/* todo section 2 */
+.SecondSection{
+     display: flex;
+    flex-direction: row;
+
+}
+.DivShildSecTwo{
+    background-color: red;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 600px;
+}
+.DivShildSecTowDIV2{
+    background-color: red;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 600px;
+}
+.SecondSectionParagraph{
+    padding: 25px;
+}
+.SecondSectionParagraphDiv2{
+    padding: 43.5px;
+}
+/* todo 
+section 3 */
+.ThirdSection{
+      display: flex;
+    flex-direction: row;
+}
+.DivFotherOneSec3{
+display: flex;
+
+}
+.DivShildSecThree{
+    background-color: red;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 112px;
+}
+.DivShildSecThreeDIV2{
+    background-color: red;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 600px;
+}
+.ThirdSectionParagraf{
+    padding: 45px;
+}
+.ThirdSectionParagrafDiv2{
+    padding: 30px;
+}
