@@ -1,0 +1,71 @@
+/* welcome */
+*{
+    margin: 0;
+    padding:0 ;
+}
+/*! header is empty */
+/* ! ```this is the main``` */
+.MainSection{
+display: flex;
+flex-direction: column;
+}
+/* todo DIV 1 */
+.FirstDiv{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+.FirstDivPargraph{
+    padding: 60px;
+}
+/* todo DIV 2 */
+.SecondDiv{
+display: flex;
+flex-direction: row;
+}
+.SecondDivDivs{
+    background-color: orange;
+    width: 950px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.SecondDivPragraph{
+    padding: 50px;
+}
+/* todo DIV 3 */
+.ThirdDiv{
+display: flex;
+flex-direction: row;
+}
+.ThirdDivDivs{
+    background-color: orange;
+     width: 950px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ThirdDivParagraphs{
+    padding: 40px;
+}
+/* todo DIV 4 */
+.FourthDiv{
+display: flex;
+flex-direction: row;
+}
+.FourthDivDivs{
+    background-color: orange;
+     width: 950px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.FourthDivParagraphs{
+    padding: 30px;
+}
