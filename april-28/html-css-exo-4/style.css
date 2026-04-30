@@ -11,6 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 
 }
 
@@ -28,40 +29,44 @@
     padding-right: 40px;
 }
 
-/* section 1 */
+/*todo section 1 */
 .FirstSection {
     margin: 20px 20px;
     background-color: rgb(255, 255, 255);
+    border-radius: 12px;
 }
 
 .FirstSectionParagraph {
     padding: 15px;
 }
 
-/* section 2 */
+/*todo section 2 */
 .SecondSection {
     margin-left: 30px;
     background-color: rgb(255, 255, 255);
     text-align: center;
     margin-bottom: 10px;
+    border-radius: 12px;
 }
 .SecondSectionParagraf{
     padding: 15px;
 }
-/* section 3 */
+/*todo section 3 */
 .ThirdSection{
     width: 300px;
     height: 150px;
      background-color: rgb(255, 255, 255);
      margin-bottom: 20px;
+     border-radius: 12px;
 }
 .ThirdSectionParagraph1{
 padding: 30px 0px 10px 0px;
 }
-/* section 4 */
+/*todo section 4 */
 .FourthSection{
     border: 2px solid black;
      background-color: rgb(255, 255, 255);
+     border-radius: 12px;
 }
 .ThirdSectionParagraph1{
     padding: 20px 20px 20px 10px;
@@ -69,50 +74,71 @@ padding: 30px 0px 10px 0px;
 .ThirdSectionParagraph2{
      padding: 0px 20px 30px 10px;
 }
-/* section 5 */
+/* todo section 5 */
 .FifthSection{
     margin: 20px;
     padding-top: 20px;
     padding-bottom:50px;
      background-color: rgb(255, 255, 255);
+     border-radius: 12px;
 }
-/* section 6 */
+.FifthSectionParagraph1{
+    margin-bottom: 15px;
+}
+/* todo section 6 */
 .SixthSection{
      display: flex;
      flex-direction: column;
      align-items: center;
+    
+
 }
 .SixthSectionDiv{
     width: 300px;
     background-color: rgb(255, 255, 255);
     margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 12px;
 }
-/* section 7 */
+.SixthSectionParagraph1{
+margin-bottom: 10px;
+}
+/*todo section 7 */
 .SeventhSection{
     background-color: rgb(255, 255, 255);
     margin-bottom: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 12px;
 }
 .SeventhSection:hover{
     background-color: aqua;
 }
-/* section 8 */
+/*todo section 8 */
 .EghithSection{
     background-color: rgb(255, 255, 255);
     text-align: right;
     margin-bottom: 10px;
+    border-radius: 12px;
 
 }
 .paragraph{
     padding: 10px;
 }
-/* section 9 */
+/*todo section 9 */
 .NinethSection{
     background-color: rgb(255, 255, 255);
     margin-left: 50px;
     padding-left: 20px;
     margin-bottom: 20px;
+    padding: 15px 0px;
+    border-radius: 12px;
 }
-/* section 10 */
+.ninthSectionParagraph1{
+    margin-bottom: 15px;
+}
+/*todo section 10 */
 .TenthSection{
     display: flex;
     flex-direction: column;
@@ -122,7 +148,12 @@ padding: 30px 0px 10px 0px;
     background-color: rgb(255, 255, 255);
     width: 400px;
     margin-bottom: 20px;
+    padding: 15px 0px;
+    border-radius: 12px;
 
+}
+.tenthSectionParagraph1{
+     margin-bottom: 15px;
 }
 /* ```thi is the footer``` */
 .foot{
